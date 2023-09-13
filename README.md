@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Michelle Piao
-- I’m interested in finding programming applications within school
-- I’m currently learning java
-- I’m looking to learn and explore new ideas
 - How to reach me: michellepiao04@gmail.com
 
 <!---
